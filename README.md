@@ -1,2 +1,2 @@
 # First-Repository
-my first try at a repository
+A repository that consists of short notes of various occassions/meetings.
