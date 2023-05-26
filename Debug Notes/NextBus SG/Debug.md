@@ -11,4 +11,5 @@
 * Use new map APIs
 * Coook Nshima
 * Drink medicine
-* need to add more code 
+* need to add more code
+* Committing from my phone
