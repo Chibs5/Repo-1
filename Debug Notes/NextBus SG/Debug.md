@@ -13,3 +13,4 @@
 * Drink medicine
 * need to add more code
 * Committing from my phone
+* commiting from the pc today
