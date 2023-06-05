@@ -17,4 +17,4 @@
 * Abcd
 * 1
 * School is hard
-* 1
+* the way of life 
