@@ -9,3 +9,4 @@
 * Make minor adjustments
 * Add Zambian routes
 * Use new map APIs
+* Fix dependencies
